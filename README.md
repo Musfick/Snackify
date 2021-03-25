@@ -49,7 +49,7 @@ and add the dependency:
 ```gradle
 dependencies {
   ...
-  implementation 'com.github.Musfick:Snackify:0.1.0'
+  implementation 'com.github.Musfick:Snackify:0.1.1'
   ...
 }
 ```
