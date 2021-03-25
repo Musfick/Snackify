@@ -6,10 +6,14 @@ This library is build on top of Snackbar
 
 Type of Snackbars
 -----
-✅ Success Snackbar <br/>
-✅ Info Snackbar <br/>
-✅ Warning Snackbar <br/>
-✅ Error Snackbar
+👉 Success Snackbar <br/>
+<img src="success.png" width="500" height="110"> <br/> <br/>
+👉 Info Snackbar <br/>
+<img src="info.png" width="500" height="110"> <br/> <br/>
+👉 Warning Snackbar <br/>
+<img src="warning.png" width="500" height="110"> <br/> <br/>
+👉 Error Snackbar <br/>
+<img src="error.png" width="500" height="110">
 
 Usage
 -----
