@@ -36,7 +36,7 @@ class Snackify {
 
         private fun createSanckbar(view:View, msg:String, length:Int, type:Int):Snackbar{
 
-            val snackBar = Snackbar.make(view, msg, length)
+            val snackBar = Snackbar.make(view, "", length)
             snackBar.view.setBackgroundColor(Color.TRANSPARENT)
             val snackBarLayout = snackBar.view as Snackbar.SnackbarLayout
             snackBarLayout.setPadding(0,0,0,0)
