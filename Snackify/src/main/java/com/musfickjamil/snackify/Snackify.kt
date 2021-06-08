@@ -18,7 +18,7 @@ class Snackify {
         private const val WARNING = 400
         private const val ERROR = 500
         const val LENGTH_LONG = Snackbar.LENGTH_LONG
-        const val LENGTH_SHORT = Snackbar.LENGTH_LONG
+        const val LENGTH_SHORT = Snackbar.LENGTH_SHORT
         const val LENGTH_INDEFINITE = Snackbar.LENGTH_INDEFINITE
 
         fun success(view: View, msg:String, length: Int):Snackbar {
